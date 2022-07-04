@@ -24,6 +24,7 @@ header .header_title_The{
 header .header_title_Booleaner{
     color: white;
     font-size: 40px;
+    text-shadow: 2px 2px 4px black;
     position: absolute;
     left: 13px;
     bottom: 12px;
@@ -31,6 +32,34 @@ header .header_title_Booleaner{
 
 /*-----------   /Header  ------------------ */
 
+/*-----------   Main  ------------------ */
+ main{
+    margin: 10px 13px;  
+ }
+
+ main .main_title{
+    display: block;
+    color: black;
+    font-size: 35px;
+    font-weight: 900;
+
+ }
+
+ main .main_subtitle{
+    display: block;
+    color: #808080;
+    
+}
+
+main .writer_name{
+    color: #2DAEE6;
+}
+
+main .writed_date{
+    font-size: small;
+}
+
+/*-----------   /Main  ------------------ */
 
 
 
