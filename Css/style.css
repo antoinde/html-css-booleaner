@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+/*-----------   Header  ------------------ */
+header{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 60%;
+    background-attachment:scroll;
+    background-position-x: 5%;
+    background-position-y: 10%;
+    height: 100px;
+    position: relative;
+}
+
+header .header_title_The{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 41px;
+    bottom: 42px;
+}
+
+header .header_title_Booleaner{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    left: 13px;
+    bottom: 12px;
+}
+
+/*-----------   /Header  ------------------ */
+
+
+
+
