@@ -123,10 +123,12 @@ main .photo_description{
 
     .add_box_monitor{
         background-image: url(../img/monitor.jpg);
+        background-size: cover;
     }
 
     .add_box_graph{
         background-image: url(../img/graph.jpg);
+        background-size: cover;
     }
 
 
