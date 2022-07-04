@@ -76,7 +76,20 @@ main .photo_description{
     background-color: yellow;
 }
 
+    /* --------Tabella--------- */
+    .white_text{
+        color: white;
+    }
 
+    .blue_background_color{
+        background-color: #20A9E5;
+    }
+
+    .azzurro_background_color{
+        background-color: #B1E5F2;
+    }
+
+    /* --------/Tabella--------- */
 /*-----------   /Main  ------------------ */
 
 
