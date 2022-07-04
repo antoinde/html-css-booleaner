@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+}
+
+main{
+    padding: 0 300px;
+}
+/*-----------   Header  ------------------ */
+header{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 60%;
+    background-attachment:scroll;
+    background-position-x: 5%;
+    background-position-y: 10%;
+    height: 100px;
+    position: relative;
+}
+
+header .header_title_The{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    text-shadow: 2px 2px 4px black;
+    position: absolute;
+    left: 41px;
+    bottom: 42px;
+}
+
+header .header_title_Booleaner{
+    color: white;
+    font-size: 40px;
+    font-family: 'Roboto Slab', serif;
+    text-shadow: 2px 2px 4px black;
+    position: absolute;
+    left: 13px;
+    bottom: 12px;
+}
+
+header .header_title_Booleaner:hover{
+    cursor: pointer;
+}
+
+/*-----------   /Header  ------------------ */
+
+/*-----------   Main  ------------------ */
+ main{
+    margin: 10px 13px;  
+ }
+
+ main .main_title{
+    display: block;
+    color: black;
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+
+ }
+
+ main .main_subtitle{
+    display: block;
+    color: #808080;
+    
+}
+
+main .writer_name{
+    color: #2DAEE6;
+}
+
+main .writer_name:hover{
+    cursor: pointer;
+}
+
+main .writed_date{
+    font-size: small;
+}
+
+
+main .photo_container{
+    height: 300px;
+}
+
+main .photo_container img{
+    height: 100%;
+}
+
+main .photo_description{
+    font-size: small;
+}
+
+.evidenced_text{
+    background-color: yellow;
+}
+
+      /* --------Tabella--------- */
+      .white_text{
+        color: white;
+    }
+
+    .blue_background_color{
+        background-color: #20A9E5;
+    }
+
+    .azzurro_background_color{
+        background-color: #B1E5F2;
+    }
+
+    /* --------/Tabella--------- */
+
+    .adds_title{
+        color: grey;
+    }
+
+    .add_box{
+        width: 200px;
+        height: 150px;
+        margin-top: 10px;
+        color: white;
+        font-weight: 700;
+        padding: 10px 10px;
+    }
+
+    .add_box:hover{
+        cursor: pointer;
+    }
+
+    .add_box_monitor{
+        background-image: url(../img/monitor.jpg);
+    }
+
+    .add_box_graph{
+        background-image: url(../img/graph.jpg);
+    }
+
+
+/*-----------   /Main  ------------------ */
+
+
+
