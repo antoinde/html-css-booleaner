@@ -59,6 +59,24 @@ main .writed_date{
     font-size: small;
 }
 
+
+main .photo_container{
+    height: 300px;
+}
+
+main .photo_container img{
+    height: 100%;
+}
+
+main .photo_description{
+    font-size: small;
+}
+
+.evidenced_text{
+    background-color: yellow;
+}
+
+
 /*-----------   /Main  ------------------ */
 
 
