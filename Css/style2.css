@@ -3,8 +3,9 @@ body{
 }
 
 main{
-    padding: 0 300px;
+    padding: 0px 300px;
 }
+
 /*-----------   Header  ------------------ */
 header{
     background-color: #4EA0FF;
@@ -126,10 +127,12 @@ main .photo_description{
 
     .add_box_monitor{
         background-image: url(../img/monitor.jpg);
+        background-size: cover;
     }
 
     .add_box_graph{
         background-image: url(../img/graph.jpg);
+        background-size: cover;
     }
 
 
