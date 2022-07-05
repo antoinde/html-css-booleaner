@@ -1,15 +1,13 @@
 body{
     margin: 0;
+    padding: 0;
 }
 
 /*-----------   Header  ------------------ */
 header{
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
-    background-size: 60%;
-    background-attachment:scroll;
-    background-position-x: 5%;
-    background-position-y: 10%;
+    background-size: 340px;
     height: 100px;
     position: relative;
 }
@@ -90,6 +88,10 @@ main .photo_description{
 }
 
       /* --------Tabella--------- */
+
+    table{
+        border-collapse: collapse;
+    }
       .white_text{
         color: white;
     }
@@ -100,6 +102,10 @@ main .photo_description{
 
     .azzurro_background_color{
         background-color: #B1E5F2;
+    }
+
+    .terza_colonna{
+        width: 50%;
     }
 
     /* --------/Tabella--------- */
